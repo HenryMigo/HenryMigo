@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrymigo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![henrymigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrymigo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![henrymigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrymigo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
